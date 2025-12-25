@@ -1,0 +1,32 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# Local data
+data/*.json
+!data/processed_posts.json
+!data/raw_posts.json 
