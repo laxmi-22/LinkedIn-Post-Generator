@@ -60,7 +60,7 @@ venv\Scripts\activate      # Windows
 
 pip install -r requirements.txt
 
-4.**Run the project**
+4. **Run the project**
 
 python app.py
 
@@ -79,6 +79,6 @@ The AI will generate a LinkedIn post with emojis
 
 Big thanks to the YouTube tutorial and **Codebasics Channel(Dhaval Patel)** that helped guide this project:
 📺 Gen AI Project Using Llama3.2 | LinkedIn Post Generator Tool 
-YouTube
+YouTube(https://www.youtube.com/watch?v=qZ_J-Xg0QM4) 📺 :contentReference[oaicite:0]{index=0}
 
 And thank you for checking this out — if this helped you, please ⭐ star this repo and leave a 👍 comment!
