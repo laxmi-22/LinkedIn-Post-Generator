@@ -67,35 +67,17 @@ python app.py
 
 🎉 Your AI LinkedIn Post Generator should now be live!
 
-📌 How to Use
+## 📌 How to Use
 
 Input your topic / keywords / prompt in the UI or terminal
-
 The AI will generate a LinkedIn post with emojis
-
 🔁 You can tweak text / regenerate until satisfied
-
 👇 Don’t forget to ask your audience to like, comment, and engage! 👍💡
 
-📸 Sample Output
 
-“🌟 Wow! Just experienced an amazing breakthrough in AI with LLaMA 3.2 today! 🤖
-Sharing insights and future plans — drop a like 👍 and comment 💬 your thoughts!”
+## 🙏 Thanks & Credits
 
-💬 Fun Extras
-
-✔ Encourage users/viewers to try multiple prompts
-✔ Add support for custom emojis patterns in generated texts
-✔ Insert social sharing links or buttons
-
-❤️ Contributing
-
-Feel free to fork this project, add features, improve documentation, or submit bug fixes!
-✨ Contributions are always welcome!
-
-🙏 Thanks & Credits
-
-Big thanks to the YouTube tutorial and ** Codebasics Channel(Dhaval Patel)** that helped guide this project:
+Big thanks to the YouTube tutorial and **Codebasics Channel(Dhaval Patel)** that helped guide this project:
 📺 Gen AI Project Using Llama3.2 | LinkedIn Post Generator Tool 
 YouTube
 
